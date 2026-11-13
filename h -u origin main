@@ -1,0 +1,9 @@
+[33mcommit 660e854965a4862c8175ccb2e90319c9dca96baf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: snehasaikomallola <snehasaikomallola@gmail.com>
+Date:   Fri Nov 13 10:47:35 2026 +0530
+
+    Initial commit - SmartHire GenAI
+
+ .gitignore |   5 [32m+[m
+ app.py     | 765 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ 2 files changed, 770 insertions(+)
